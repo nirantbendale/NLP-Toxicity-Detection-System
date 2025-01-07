@@ -33,7 +33,7 @@ transformers
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/toxicity-detector.git
+git clone https://github.com/nirantbendale/NLP-Toxicity-Detection-System.git
 cd toxicity-detector
 ```
 
@@ -128,4 +128,4 @@ Analysis Results:
 - Unitary for the toxic-bert model
 - PyTorch team for the deep learning framework
 
-- Nirant Bendale
+Nirant Bendale
